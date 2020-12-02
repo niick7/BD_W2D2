@@ -18,4 +18,4 @@ Let cat mat and sat be processed by Reducer 1 and rest by Reducer 2.
 
 Q2. Illustrate Page Rank Algorithm (Three steps only)
 
-Image result for directed graph example
+See [this](https://github.com/niick7/BD_W2D2/blob/master/question.png) for details.
